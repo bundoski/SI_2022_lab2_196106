@@ -1,14 +1,15 @@
 # Џулијано Бундоски 196106
 
-Control Flow Graph :
-![image](https://user-images.githubusercontent.com/93097556/171317334-d4067897-434e-4b4f-a4e0-faf294fb5556.png)
+## Control Flow Graph :
+![image](https://user-images.githubusercontent.com/93097556/171318803-627b93d7-bbf1-4d8b-b92d-a6b3b6ad5867.png)
+
 
 ## Цикломатската комплексност 
 
 Цикломатската комплексност на овој код е 9, истата ја добив преку формулата E-N+2, каде што Е е бројот на ребра во CFG-то, N e бројот на јазли, а 2 е константа која се додава по одземањето. Во случајов Е = 31, N = 24, па цикломатската комплексност изнесува 2.
 
 ## Тест случаи според критериумот Every statement
-todo
+![image](https://user-images.githubusercontent.com/93097556/171321853-82bdf5d0-aa20-422e-9a8b-14a6d4a34dcf.png)
 
 ## Тест случаи според критериумот Every path
 todo
