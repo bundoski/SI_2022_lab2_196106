@@ -1,7 +1,7 @@
 # Џулијано Бундоски 196106
 
 ## Control Flow Graph :
-![image](https://user-images.githubusercontent.com/93097556/171318803-627b93d7-bbf1-4d8b-b92d-a6b3b6ad5867.png)
+![image](https://user-images.githubusercontent.com/93097556/171900578-6781b351-85e7-4fe5-801a-c3bb4bfb2316.png)
 
 
 ## Цикломатската комплексност 
